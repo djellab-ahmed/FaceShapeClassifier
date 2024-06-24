@@ -1,0 +1,8 @@
+{
+    "faceshape-app": {
+        "image": ":faceshape-app.latest.5",
+        "ports": {
+            "5010": "HTTP"
+        }
+    }
+}

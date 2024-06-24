@@ -1,0 +1,9 @@
+Flask==3.0.0
+Werkzeug==3.0.1
+opencv-python==4.8.1.78
+opencv-contrib-python
+imutils==0.5.4
+pyarrow
+pandas
+joblib==1.3.2
+scikit-learn==1.3.2
