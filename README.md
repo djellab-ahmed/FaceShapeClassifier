@@ -1,3 +1,7 @@
+# My Project
+
+This is a description of my project.
+
 ## Watch the Demo
 
 <div style="padding:64.95% 0 0 0;position:relative;">
@@ -8,6 +12,6 @@
           title="1">
   </iframe>
 </div>
-<script src="https://player.vimeo.com/api/player.js"></script>
+
 
 
